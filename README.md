@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fdorol0
-- 👀 I’m interested in JVM
+- 👀 I’m interested in Scala, Java
 - 🌱 I’m currently learning Clojure
-- 💞️ I’m looking to collaborate on PHP, Spring Framework.
+- 💞️ I’m looking to collaborate on PHP, Spark
 - 📫 How to reach me enrique.navarro64@gmail.com
 
 <!---
